@@ -1,0 +1,3 @@
+Based on the work of [[Leonardo da Vinci]] with his Man in a Square and a Circle and further development of its principles in the fundamentals of modern bodybuilding, we have created a program for calculating optimal body proportions. This program allows you to calculate the Ideal parameters based on three main values: growth, and the volume of the wrist and chest. You can try calculating ideal parameters, but be aware that the results are subjective! The proportionality percentage above **82** indicates a well-built figure.
+
+![[Proportionality.excalidraw]]
