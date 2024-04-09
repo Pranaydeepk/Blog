@@ -1,6 +1,4 @@
 #2k24 #april
-creation date: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %>
-modification date: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
 # Memento Mori - <% tp.date.now("YYYY-MM-DD") %>
 
 << [[Memento Mori - <% tp.date.now("YYYY-MM-DD", -1) %>]] | [[Memento Mori - <% tp.date.now("YYYY-MM-DD", 1) %>]] >>

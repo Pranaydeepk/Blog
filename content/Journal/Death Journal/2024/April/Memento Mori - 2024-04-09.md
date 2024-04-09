@@ -1,12 +1,9 @@
 #2k24 #april
-creation date: 2024-04-09 16:59:54
-modification date: 2024-04-09 16:59:54
-# Memento Mori - 2024-04-09
 
 << [[Memento Mori - 2024-04-08]] | [[Memento Mori - 2024-04-10]] >>
 
-> [!quote] It is with our passions, as it is with fire and water, they are good servants but bad masters.
-> — Aesop
+> [!quote] Don't cry because it's over. Smile because it happened.
+> — Dr. Seuss
 ### Explanation of the 5-minute Death Journal Exercises
 
 1. **Deathbed Time Machine Tour of Today**: Reflect on your day as if it were the one day you could revisit at the end of your life. Identify the top three moments of the day you would want your 80-year-old self to experience again.
