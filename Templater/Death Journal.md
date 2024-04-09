@@ -1,16 +1,11 @@
+#2k24 #april
+creation date: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss") %>
+modification date: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
+# Memento Mori - <% tp.date.now("YYYY-MM-DD") %>
 
----
-creation date: 2024-04-07 17:29
-modification date: Sunday 7th April 2024 17:19:27
----
+<< [[Memento Mori - <% tp.date.now("YYYY-MM-DD", -1) %>]] | [[Memento Mori - <% tp.date.now("YYYY-MM-DD", 1) %>]] >>
 
-<< [[2024-04-06]] | [[2024-04-08]] >>
-
-
-> [!quote] Ideals are an imaginative understanding of that which is desirable in that which is possible.
-> — Walter Lippmann
-
-
+<% tp.web.daily_quote() %>
 ### Explanation of the 5-minute Death Journal Exercises
 
 1. **Deathbed Time Machine Tour of Today**: Reflect on your day as if it were the one day you could revisit at the end of your life. Identify the top three moments of the day you would want your 80-year-old self to experience again.
