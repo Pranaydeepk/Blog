@@ -11,9 +11,6 @@
 ## Challenges
 - 
 
-## Plan for Tomorrow
-- 
-
 
 
 
