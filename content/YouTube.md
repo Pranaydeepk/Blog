@@ -1,5 +1,0 @@
-#### YouTube Channels I Follow
-
-- **Renaissance Periodization**
-    - **Description**: A channel dedicated to providing scientific training and diet strategies for fitness and bodybuilding.
-    - **Link**: [Renaissance Periodization - YouTube](https://www.youtube.com/@RenaissancePeriodization)
