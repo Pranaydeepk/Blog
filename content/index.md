@@ -8,6 +8,7 @@ This is the notes made by me.
 
 - [[1RM]]
 - [[Boostcamp]]
+- [[Morning Routine]]
 - [[Proportionality]]
 - [[Super Squats]]
 - [[YouTube Channels I Follow]]
