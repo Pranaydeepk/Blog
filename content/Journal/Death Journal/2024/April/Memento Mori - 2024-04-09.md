@@ -21,7 +21,7 @@
 **1. Deathbed Time Machine Tour of Today**
 > Moment 1: Deciding to stop watching porn.
 
->Moment 2: <span style="color:#c00000">Starting to write Death Journal from today</span>
+>Moment 2: <span style="color:#ffff00">Starting to write Death Journal from today</span>
 
 >Moment 3: Publishing the Obsidian through quartz
 
