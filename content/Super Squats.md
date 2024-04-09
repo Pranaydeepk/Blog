@@ -34,13 +34,13 @@ Good Luck!
 
 Program Overview
 
-Level: Novice, 
-Intermediate Equipment: Garage Gym 
-Time Per Workout: 40 mins Days per 
-Week: 3 days 
-Program Length: 6 weeks 
-Start: Apr 02, 2024 00:38 
-End: Apr 06, 2024 07:38
+- Level: Novice
+- Intermediate Equipment: Garage Gym 
+- Time Per Workout: 40 mins Days per 
+- Week: 3 days 
+- Program Length: 6 weeks 
+- Start: Apr 02, 2024 00:38 
+- End: Apr 06, 2024 07:38
 
 Start Week 2 - Day 1
 
