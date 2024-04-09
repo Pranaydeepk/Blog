@@ -1,7 +1,12 @@
 ---
 title: Welcome to my notes on Quartz
 ---
+This is the notes made by me.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[1RM]]
+- [[Boostcamp]]
+- [[Proportionality]]
+- [[Super Squats]]
+- [[YouTube Channels I Follow]]
+
 
