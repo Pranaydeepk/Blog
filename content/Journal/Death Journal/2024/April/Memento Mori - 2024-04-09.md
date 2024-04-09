@@ -16,53 +16,55 @@
 
 5. **The Internal Springs of Never-Ending Gratitude**: End the journaling session by acknowledging what you are grateful for on this particular day. Gratitude has been shown to have numerous psychological and physical benefits.
 
-### 5-Minute Death Journal Template
-
-**Date:** [Insert Date Here]
+### 5-Minute Death Journal
 
 **1. Deathbed Time Machine Tour of Today**
-> Moment 1: 
+> Moment 1: Deciding to stop watching porn.
 
->Moment 2: 
+>Moment 2: <span style="color:#002060">Starting to write Death Journal from today
+</span>
 
->Moment 3: 
+>Moment 3: Publishing the Obsidian through quartz
 
 **Reflection:** A brief reflection on why these moments stood out and their significance.
 
-> 
+> These moments will be marked as before and after, forever changing everything in my life.
 
 **2. The Wise Old Man's Lesson**
 
->Today's Lesson: 
+>Today's Lesson: Maintain the morning routine of brushing my teeth as soon as I wake up.
 
->How I Learned It: 
+>How I Learned It: Neglecting to brush my teeth led to a cascade of procrastination, culminating in the avoidance of exercise and seeking immediate gratification through pornography. This chain of events highlighted the importance of sticking to a morning routine to set a positive tone for the day.
 
 **Reflection:** What this lesson means for your personal growth.
-> 
+> <span style="color:#00b0f0">Small habits lead to self-improvement. Morning routine sets the tone for fulfilling life.</span>
 
 **3. Tomorrow's Plan (The Kidnapper's Demand)**
 
->Task 1: 
+>Task 1: Conduct a comparison of the two different models after executing 1000 simulations in SWAT-CUP.
 
->Task 2: 
+>Task 2: Summarize the findings by stating that the inclusion of Water Impoundment Structures has enhanced the simulation results.
 
->Task 3: 
+>Task 3: > Schedule a meeting with my guide to discuss the nuances and progress of the project.
 
 **Objective:** Your objective in accomplishing these tasks.
 
+> <span style="color:#ff0000">My goal is to get an 'A' for my M.Tech project by showing my understanding of the subject and research skills.</span>
+
 **4. Contribution to the Karmic Well**
 
->Today's Contribution: 
+>Today's Contribution: None
 
->Its Impact: 
+>Its Impact: Nil
 
 **Reflection:** How this action aligns with your values or the difference it made.
-> 
+
+>  The absence of a notable contribution today prompts introspection. It's unsettling to recognize a day passed without positive outward action. This realization is a call to mindfulness, a reminder to actively seek and seize opportunities for kindness and impact, no matter how small. Moving forward, I'm compelled to be more present and intentional in my daily interactions to ensure that 'nil' days become rare in my journey.
 
 **5. Gratitude Reflection**
 
-> Today, I am most grateful for: 
+> Today, I am most grateful for: <span style="color:#00b050">Myself</span>
 
-**Reflection:** Why this particular thing/person/moment made you feel grateful. Based on the content you've provided, it seems you're looking to create a structured template based on the "5-minute death journal" concept, as outlined in the transcript. This journaling method is designed to transform lives by encouraging reflection on daily experiences, planning for future actions, celebrating selfless deeds, and fostering gratitude, all within a 5-minute daily practice. Below, I'll first explain the components based on the content, then provide a template you can use or adapt to your journaling needs.
+**Reflection:** Why this particular thing/person/moment made you feel grateful?
 
-> 
+> <span style="color:#00b050">There is a part of me that could give in to destructive habits, but there is also a larger part of me that tries to make peace with the devil.</span>

@@ -17,7 +17,7 @@
 
 5. **The Internal Springs of Never-Ending Gratitude**: End the journaling session by acknowledging what you are grateful for on this particular day. Gratitude has been shown to have numerous psychological and physical benefits.
 
-### 5-Minute Death Journal Template
+### 5-Minute Death Journal
 
 **Date:** [Insert Date Here]
 
