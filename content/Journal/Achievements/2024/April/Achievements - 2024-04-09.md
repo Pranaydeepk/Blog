@@ -7,9 +7,7 @@ modification date: 2024-04-09 16:59:02
 ## Achievements
 - 
 
-## Learned
-- 
-
+I've been following [Renaissance Periodization](https://www.youtube.com/@RenaissancePeriodization) on [[YouTube]], which offers insightful content on fitness, diet strategies, and bodybuilding. The creator, Dr. Mike Israetel, regularly posts videos about scientific training methods and nutrition planning.
 ## Challenges
 - 
 
