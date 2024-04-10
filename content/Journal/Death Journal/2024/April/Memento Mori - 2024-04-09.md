@@ -40,9 +40,9 @@
 
 **3. Tomorrow's Plan (The Kidnapper's Demand)**
 
->Task 1: Conduct a comparison of the two different models after executing 1000 simulations in SWAT-CUP.
+>Task 1: <mark style="background: #CACFD9A6;">Conduct a comparison of the two different models after executing 1000 simulations in SWAT-CUP.</mark>
 
->Task 2: Summarize the findings by stating that the inclusion of Water Impoundment Structures has enhanced the simulation results.
+>Task 2: <mark style="background: #CACFD9A6;">Summarize the findings by stating that the inclusion of Water Impoundment Structures has enhanced the simulation results.</mark>
 
 >Task 3: > Schedule a meeting with my guide to discuss the nuances and progress of the project.
 

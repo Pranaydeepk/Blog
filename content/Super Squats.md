@@ -42,7 +42,7 @@ Program Overview
 - Start: Apr 02, 2024 00:38 
 - End: Apr 06, 2024 07:38
 
-Start Week 2 - Day 1
+Start Week 2 - Day 2
 
 As of April 2th, 2024, my starting weight was 62.1kg. I am currently following the [[Super Squats]] program, which claims to help individuals gain 30lbs (13.6kg) in just 6 weeks. I am excited to try it out and see the results.
 

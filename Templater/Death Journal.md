@@ -1,10 +1,9 @@
 #2k24 #april
-# Memento Mori - 2024-04-09
+# Memento Mori - <% tp.date.now("YYYY-MM-DD") %>
 
-<< [[Memento Mori - 2024-04-08]] | [[Memento Mori - 2024-04-10]] >>
+<< [[Memento Mori - <% tp.date.now("YYYY-MM-DD", -1) %>]] | [[Memento Mori - <% tp.date.now("YYYY-MM-DD", 1) %>]] >>
 
-> [!quote] I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
-> — G. K. Chesterton
+<% tp.web.daily_quote() %>
 ### Explanation of the 5-minute Death Journal Exercises
 
 1. **Deathbed Time Machine Tour of Today**: Reflect on your day as if it were the one day you could revisit at the end of your life. Identify the top three moments of the day you would want your 80-year-old self to experience again.
@@ -18,8 +17,6 @@
 5. **The Internal Springs of Never-Ending Gratitude**: End the journaling session by acknowledging what you are grateful for on this particular day. Gratitude has been shown to have numerous psychological and physical benefits.
 
 ### 5-Minute Death Journal
-
-**Date:** [Insert Date Here]
 
 **1. Deathbed Time Machine Tour of Today**
 > Moment 1: 
