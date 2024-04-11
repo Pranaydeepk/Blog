@@ -1,9 +1,8 @@
 #2k24 #april
-# Memento Mori - <% tp.date.now("YYYY-MM-DD") %>
+<< [[Memento Mori - 2024-04-10]] | [[Memento Mori - 2024-04-12]] >>
 
-<< [[Memento Mori - <% tp.date.now("YYYY-MM-DD", -1) %>]] | [[Memento Mori - <% tp.date.now("YYYY-MM-DD", 1) %>]] >>
-
-<% tp.web.daily_quote() %>
+> [!quote] I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> — Muhammad Ali
 ### Explanation of the 5-minute Death Journal Exercises
 
 1. **Deathbed Time Machine Tour of Today**: Reflect on your day as if it were the one day you could revisit at the end of your life. Identify the top three moments of the day you would want your 80-year-old self to experience again.
@@ -19,48 +18,50 @@
 ### 5-Minute Death Journal
 
 **1. Deathbed Time Machine Tour of Today**
-> Moment 1: 
+> Moment 1: I ate Haleem tastes good, but should have been boneless.
 
->Moment 2: 
+>Moment 2: Watched a movie alone in theater. Genre: Horror + Comedy
 
->Moment 3: 
+>Moment 3: For dinner in mess they served Semiya Payasam it was yummy.
 
 **Reflection:** A brief reflection on why these moments stood out and their significance.
 
-> 
+> Food and art are divine.
 
 **2. The Wise Old Man's Lesson**
 
->Today's Lesson: 
+>Today's Lesson: Sleep Early
 
->How I Learned It: 
+>How I Learned It: It's leading me to skip exercise.
 
 **Reflection:** What this lesson means for your personal growth.
-> 
+> This means I have to find a way to get to bed early. One step at a time.
 
 **3. Tomorrow's Plan (The Kidnapper's Demand)**
 
->Task 1: 
+>Task 1: At any cost ask guide to review and suggestion for presentation.
 
->Task 2: 
+>Task 2: Super Squats
 
->Task 3: 
+>Task 3: Forrest Gump - Strava - 5:45 PM
 
 **Objective:** Your objective in accomplishing these tasks.
 
+> <span style="color:#ff0000">My goal is to get an 'A' for my M.Tech project by showing my understanding of the subject and research skills.</span>
+
 **4. Contribution to the Karmic Well**
 
->Today's Contribution: 
+>Today's Contribution: None
 
->Its Impact: 
+>Its Impact: Nil
 
 **Reflection:** How this action aligns with your values or the difference it made.
-> 
+> I have to be more social.
 
 **5. Gratitude Reflection**
 
-> Today, I am most grateful for: 
+> Today, I am most grateful for: Financial Freedom.
 
-**Reflection:** Why this particular thing/person/moment made you feel grateful. Based on the content you've provided, it seems you're looking to create a structured template based on the "5-minute death journal" concept, as outlined in the transcript. This journaling method is designed to transform lives by encouraging reflection on daily experiences, planning for future actions, celebrating selfless deeds, and fostering gratitude, all within a 5-minute daily practice. Below, I'll first explain the components based on the content, then provide a template you can use or adapt to your journaling needs.
+**Reflection:** Why this particular thing/person/moment made you feel grateful. 
 
-> 
+> Because of this I am able to watch a movie.
