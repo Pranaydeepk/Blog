@@ -8,6 +8,7 @@ This is the notes made by me.
 
 - [[1RM]]
 - [[Boostcamp]]
+- [[Cultivating a Reading Habit - 30 Days, 30 Chapters Challenge]]
 - [[Morning Routine]]
 - [[Proportionality]]
 - [[Super Squats]]
