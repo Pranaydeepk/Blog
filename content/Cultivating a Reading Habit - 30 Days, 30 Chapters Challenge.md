@@ -19,38 +19,38 @@ To tackle the 30-day challenge of reading a chapter a day, I'll start each morni
 In addition to reading, I'll jot down key insights and reflections from each chapter to aid retention and spark further contemplation.
 ### Habit Tracker
 
-| Date       | Book             | Chapters Read | Key Insights and Reflections                                                             |
-| ---------- | ---------------- | ------------- | ---------------------------------------------------------------------------------------- |
-| 2024-04-12 | The 12 Week Year | The Challenge | It's not what you know; it's not even who you know; it's what you implement that counts. |
-| 2024-04-13 | The 12 Week Year |               |                                                                                          |
-| 2024-04-14 | The 12 Week Year |               |                                                                                          |
-| 2024-04-15 | The 12 Week Year |               |                                                                                          |
-| 2024-04-16 | The 12 Week Year |               |                                                                                          |
-| 2024-04-17 | The 12 Week Year |               |                                                                                          |
-| 2024-04-18 | The 12 Week Year |               |                                                                                          |
-| 2024-04-19 | The 12 Week Year |               |                                                                                          |
-| 2024-04-20 | The 12 Week Year |               |                                                                                          |
-| 2024-04-21 | The 12 Week Year |               |                                                                                          |
-| 2024-04-22 | The 12 Week Year |               |                                                                                          |
-| 2024-04-23 | The 12 Week Year |               |                                                                                          |
-| 2024-04-24 | The 12 Week Year |               |                                                                                          |
-| 2024-04-25 | The 12 Week Year |               |                                                                                          |
-| 2024-04-26 | The 12 Week Year |               |                                                                                          |
-| 2024-04-27 | The 12 Week Year |               |                                                                                          |
-| 2024-04-28 | The 12 Week Year |               |                                                                                          |
-| 2024-04-29 | The 12 Week Year |               |                                                                                          |
-| 2024-04-30 | The 12 Week Year |               |                                                                                          |
-| 2024-05-01 | Field Guide      |               |                                                                                          |
-| 2024-05-02 | Field Guide      |               |                                                                                          |
-| 2024-05-03 | Field Guide      |               |                                                                                          |
-| 2024-05-04 | Field Guide      |               |                                                                                          |
-| 2024-05-05 | Field Guide      |               |                                                                                          |
-| 2024-05-06 | Field Guide      |               |                                                                                          |
-| 2024-05-07 | Field Guide      |               |                                                                                          |
-| 2024-05-08 | Field Guide      |               |                                                                                          |
-| 2024-05-09 | Field Guide      |               |                                                                                          |
-| 2024-05-10 | Field Guide      |               |                                                                                          |
-| 2024-05-11 | Field Guide      |               |                                                                                          |
+| Date       | Book             | Chapters Read       | Key Insights and Reflections                                                                                                            |
+| ---------- | ---------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-04-12 | The 12 Week Year | The Challenge       | It's not what you know; it's not even who you know; it's what you implement that counts.                                                |
+| 2024-04-13 | The 12 Week Year | Redefining the year | We are what we repeatedly do. Excellence then is not an act, but a habit. Your results are ultimately a manifestation of your thinking. |
+| 2024-04-14 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-15 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-16 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-17 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-18 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-19 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-20 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-21 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-22 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-23 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-24 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-25 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-26 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-27 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-28 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-29 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-04-30 | The 12 Week Year |                     |                                                                                                                                         |
+| 2024-05-01 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-02 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-03 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-04 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-05 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-06 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-07 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-08 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-09 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-10 | Field Guide      |                     |                                                                                                                                         |
+| 2024-05-11 | Field Guide      |                     |                                                                                                                                         |
 ## Benefits of the Challenge
 
 Embarking on the 30 Days, 30 Chapters Challenge offers numerous benefits:
