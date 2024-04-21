@@ -7,3 +7,4 @@
 | Dumbbell Bench Pullover                              | 7.5                                       | 13                                                                           |
 | Flat Barbell Bench Press                             | 30                                        | 41                                                                           |
 | Stiff-Legged Deadlift                                | 30                                        | 44                                                                           |
+| [[Regular Push-ups]]                                 | 12                                        | 20                                                                           |

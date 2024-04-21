@@ -1,6 +1,3 @@
----
-noteID: d6a07097-8762-4afd-8a82-87cc141d215d
----
 ## Introduction
 
 Welcome to the 30 Days, 30 Chapters Challenge! Over the next month, I'll be delving into the world of books by reading a chapter a day.

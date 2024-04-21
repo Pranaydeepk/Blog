@@ -1,0 +1,3 @@
+# Meditations
+
+author::[[Marcus Aurelius]]
