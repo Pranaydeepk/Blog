@@ -7,11 +7,13 @@ This is the notes made by me.
 	1. #april 
 
 - [[1RM]]
+- [[30 Day Challenge]]
 - [[Boostcamp]]
 - [[Cultivating a Reading Habit - 30 Days, 30 Chapters Challenge]]
+- [[Discipline]]
 - [[Morning Routine]]
 - [[Proportionality]]
 - [[Super Squats]]
 - [[YouTube Channels I Follow]]
-- [[Discipline]]
+
 
