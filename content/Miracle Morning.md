@@ -34,6 +34,7 @@ After completing the challenge, reflections on the overall experience and benefi
 **Embark on your journey to personal transformation and enjoy the benefits of a productive morning routine!**
 
 - Refer to this document each morning and evening.
+- [The Miracle Morning.pdf - Google Drive](https://drive.google.com/file/d/1B-d_gYXnxi7qLl-i3uSe51Mjvr2hlDZg/view)
 ![[The Miracle Morning.pdf]]
 - Customize activities under 'Activities to be Performed' based on your specific goals.
 - Adjust the 'Progress Visualization' daily to match your progress percentage.
