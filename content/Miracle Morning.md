@@ -10,13 +10,14 @@ tags:
 # Miracle Morning - 30 Day Challenge Tracker
 ## Introduction
 This document serves as a guide and tracker for the "Miracle Morning - 30 Day Challenge" based on Hal Elrod's book. Each day is structured around six key practices: Silence, Affirmations, Visualization, Exercise, Reading, and Scribing (SAVERS).
-### Challenge Playlist
-[The Miracle Morning - 30 Day Challenge - YouTube](https://www.youtube.com/playlist?list=PLZH8D2dt3wTtVavagx3UF1SBwiitxRStt)
+
+Silence: No Mobile, Walking Meditation
+
 ## Daily Progress Log
 
 | Day | Date       | Activities to be Performed | Remarks              | Progress Visualization                                                                                                                                     |
 | --- | ---------- | -------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | 2024-12-26 |                            |                      | <div style="background-color: #ddd; width: 100%; border: 1px solid #ccc;"><div style="height: 20px; width: 3.33%; background-color: #4CAF50;"></div></div> |
+| 1   | 2024-12-26 | Silence                    |                      | <div style="background-color: #ddd; width: 100%; border: 1px solid #ccc;"><div style="height: 20px; width: 3.33%; background-color: #4CAF50;"></div></div> |
 | 2   | 2024-12-27 | Activity notes...          | Remark about the day | <div style="background-color: #ddd; width: 100%; border: 1px solid #ccc;"><div style="height: 20px; width: 3.33%; background-color: #4CAF50;"></div></div> |
 | 3   | 2024-12-28 | Activity notes...          | Remark about the day | <div style="background-color: #ddd; width: 100%; border: 1px solid #ccc;"><div style="height: 20px; width: 3.33%; background-color: #4CAF50;"></div></div> |
 | ... | ...        | ...                        | ...                  | ...                                                                                                                                                        |
