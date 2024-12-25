@@ -12,8 +12,9 @@ This is the notes made by me.
 - [[Cultivating a Reading Habit - 30 Days, 30 Chapters Challenge]]
 - [[Discipline]]
 - [[Morning Routine]]
+- [[Miracle Morning]]
 - [[Proportionality]]
 - [[Super Squats]]
 - [[YouTube Channels I Follow]]
 
-
+![[The Miracle Morning.pdf]]
