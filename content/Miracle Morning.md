@@ -11,6 +11,8 @@ tags:
 ## Introduction
 This document serves as a guide and tracker for the "Miracle Morning - 30 Day Challenge" based on Hal Elrod's book. Each day is structured around six key practices: Silence, Affirmations, Visualization, Exercise, Reading, and Scribing (SAVERS).
 
+[THE MIRACLE MORNING by Hal Elrod | Core Message - YouTube](https://www.youtube.com/watch?v=8swO3wsegUc)
+
 Silence: No Mobile, Walking Meditation
 
 ## Daily Progress Log
