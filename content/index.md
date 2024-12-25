@@ -13,5 +13,5 @@ This is the notes made by me.
 - [[Proportionality]]
 - [[Super Squats]]
 - [[YouTube Channels I Follow]]
-
+- [[Discipline]]
 
