@@ -1,6 +1,3 @@
----
-noteID: 18e6a7a6-c70c-44d2-b514-eb65023baf2c
----
 ## Index
 
 1. [[#Last Updated|Last Updated]]
