@@ -1,15 +1,3 @@
-## Index
-
-1. [[#Last Updated|Last Updated]]
-2. [[#Overview|Overview]]
-3. [[#P&L Statement (01-04-2024 to 31-03-2025)|P&L Statement (Annual)]]
-4. [[#P&L Statement for [December]|P&L Statement (Previous Month)]]
-5. [[#Target Profit for [January]|Target Profit (Current Month)]]
-6. [[#Trading Rationale|Trading Rationale]]
-7. [[#Notes and Observations|Notes and Observations]]
-8. [[#Buy Recommendations|Buy Recommendations]]
-
----
 ## Last Updated: 15/Jan/2025
 
 ![[P&L Image.png]]
