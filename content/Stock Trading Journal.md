@@ -1,6 +1,7 @@
 ## Last Updated: 15/Jan/2025
 
-![[P&L.excalidraw]]
+![[P&L Image.png]]
+
 ## Overview
 
 - **Number of Stocks:** <span style="color:rgb(255, 0, 0)">7</span> [Insert the total number of different stocks currently held in the portfolio]
