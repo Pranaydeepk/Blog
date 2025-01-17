@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Number of Stocks:** <span style="color:rgb(255, 0, 0)">7</span> [Insert the total number of different stocks currently held in the portfolio]
+- **Number of Stocks:** <span style="color:rgb(255, 0, 0)">8</span> [Insert the total number of different stocks currently held in the portfolio]
 ```math
 147.18*5
 ```
@@ -13,8 +13,8 @@
 ## P&L Statement (01-04-2024 to 31-03-2025)
 
 - **Realised Profit:** <span style="color:rgb(0, 176, 80)">305.24</span> [Insert the actual profits locked in through sales of stocks]
-- **Unrealised P&L:** <span style="color:rgb(255, 0, 0)">-841.69</span> [Insert the gains or losses still on paper from stocks currently held]
-- **Charges:** <span style="color:rgb(255, 0, 0)">188</span> [Insert all transaction fees and brokerage costs associated with trading]
+- **Unrealised P&L:** <span style="color:rgb(255, 0, 0)">-749.89</span> [Insert the gains or losses still on paper from stocks currently held]
+- **Charges:** <span style="color:rgb(255, 0, 0)">194.45</span> [Insert all transaction fees and brokerage costs associated with trading]
 
 ## P&L Statement for [December]
 
