@@ -4,6 +4,7 @@
 
  - [x] 5
  - [x] 10
+
 Create a file folder structure in the beginning of the project as below
 1. Aerial Photos
 2. Hydrology
@@ -12,10 +13,10 @@ Create a file folder structure in the beginning of the project as below
 5. Results
 6. Terrain
 7. Shape File
-
  - [x] 15
 
 [Home -- Spatial Reference](https://spatialreference.org/)
+
 
  - [x] 20
  - [x] 25
