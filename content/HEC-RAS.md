@@ -1,6 +1,3 @@
----
-noteID: 4fdd4ee0-6d08-48f2-bdef-5011dceb864a
----
 ## [HEC-RAS Basics Part 1 of 8: Download and install HEC-RAS with tips and tricks for getting started - YouTube](https://www.youtube.com/watch?v=BUjF_MGcxYQ)
 
 ![](https://www.youtube.com/watch?v=BUjF_MGcxYQ)
@@ -25,8 +22,6 @@ Update per Screen
 
 ![](https://youtu.be/xzg0V7RTdok?si=IQV5PU4PW9ZqJAkY)
 
-**Notes on Creating a 1D Geometry File in RAS Mapper**
-
 1. **River Centerline (U/S to D/S):**
     - Draw the river centerline from upstream (U/S) to downstream (D/S) to represent the flow direction.
     - Ensure it follows the thalweg (deepest part of the river channel).
@@ -42,4 +37,9 @@ Update per Screen
         - and the river centerline.
     - This ensures accurate representation of the river geometry and flow area.
 
-These points are essential for setting up a 1D geometry file in HEC-RAS.
+## [HEC-RAS Basics Part 3 of 8: 2D Flow Areas and Refinement Regions - YouTube](https://www.youtube.com/watch?v=7o4DkcBQtno)
+
+![](https://www.youtube.com/watch?v=7o4DkcBQtno)
+
+[2D Flow Areas](https://www.hec.usace.army.mil/confluence/rasdocs/rmum/6.0/geometry-data/2d-flow-areas)
+
