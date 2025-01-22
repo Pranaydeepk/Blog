@@ -1,3 +1,6 @@
+---
+noteID: b88634ef-541a-4566-8a15-3e8d42510db6
+---
 ## [HEC-RAS Basics Part 1 of 8: Download and install HEC-RAS with tips and tricks for getting started - YouTube](https://www.youtube.com/watch?v=BUjF_MGcxYQ)
 
 ![](https://www.youtube.com/watch?v=BUjF_MGcxYQ)
@@ -42,4 +45,16 @@ Update per Screen
 ![](https://www.youtube.com/watch?v=7o4DkcBQtno)
 
 [2D Flow Areas](https://www.hec.usace.army.mil/confluence/rasdocs/rmum/6.0/geometry-data/2d-flow-areas)
+
+## [HEC-RAS Basics Part 4 of 8: Internal and external boundary condition setup - YouTube](https://www.youtube.com/watch?v=pLNJZ2drgRc)
+
+![](https://www.youtube.com/watch?v=pLNJZ2drgRc)
+
+## [HEC-RAS Basics Part 5 of 8: Inflow, outflow, and rain-on-grid boundary conditions - YouTube](https://www.youtube.com/watch?v=c2rL8zvLvuE)
+
+![](https://youtu.be/c2rL8zvLvuE?si=WKudGWplCe_mNiSE)
+
+## [HEC-RAS Basics Part 6 of 8: Computational Options and Variable Time Steps - YouTube](https://www.youtube.com/watch?v=2hkpPdvicmU)
+
+![](https://youtu.be/2hkpPdvicmU?si=MCNHCvaZJE-hg2Gf)
 
