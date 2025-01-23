@@ -58,3 +58,16 @@ Update per Screen
 
 ![](https://youtu.be/2hkpPdvicmU?si=MCNHCvaZJE-hg2Gf)
 
+## [HEC-RAS Basics Part 7 of 8: Culverts and Hydraulic Structures - YouTube](https://www.youtube.com/watch?v=au1Hyqt7drA)
+
+![](https://youtu.be/au1Hyqt7drA?si=e52iNYF5tduk6R1L)
+
+1. Try Rain on grid with hyetograph to get hydrograph for Point of Interest.
+2. From the Hydrograph simulated input it as the BC.
+3. Put the embankment at the dam location.
+4. Model the barrel for the dam.
+
+## [HEC-RAS Basics Part 8 of 8: Export Options and Rating Curves - YouTube](https://www.youtube.com/watch?v=ClahIl2sWqE)
+
+![](https://youtu.be/ClahIl2sWqE?si=ppYKsM1OyW23BK8K)
+
