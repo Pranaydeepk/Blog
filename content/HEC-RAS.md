@@ -1,6 +1,3 @@
----
-noteID: b88634ef-541a-4566-8a15-3e8d42510db6
----
 ## [HEC-RAS Basics Part 1 of 8: Download and install HEC-RAS with tips and tricks for getting started - YouTube](https://www.youtube.com/watch?v=BUjF_MGcxYQ)
 
 ![](https://www.youtube.com/watch?v=BUjF_MGcxYQ)
