@@ -68,3 +68,6 @@ Update per Screen
 ## [HEC-RAS Basics Part 8 of 8: Export Options and Rating Curves - YouTube](https://www.youtube.com/watch?v=ClahIl2sWqE)
 
 ![](https://youtu.be/ClahIl2sWqE?si=ppYKsM1OyW23BK8K)
+
+[World Files – Surface Water Solutions: Consulting and Software Training](https://www.surfacewater.biz/world-files/)
+
