@@ -19,3 +19,4 @@ This is the notes made by me.
 - [[Stock Trading Journal]]
 - [[Super Squats]]
 - [[YouTube Channels I Follow]]
+- [[Youtube Notes]]
