@@ -2,9 +2,10 @@
 
 ![[P&L Image.png]]
 
+[[P&L]]
 ## Overview
 
-- **Number of Stocks:** <span style="color:rgb(255, 0, 0)">8</span> [Insert the total number of different stocks currently held in the portfolio]
+- **Number of Stocks:** <span style="color:rgb(255, 0, 0)">23</span> [Insert the total number of different stocks currently held in the portfolio]
 ```math
 147.18*5
 ```
@@ -12,15 +13,15 @@
 
 ## P&L Statement (01-04-2024 to 31-03-2025)
 
-- **Realised Profit:** <span style="color:rgb(0, 176, 80)">305.24</span> [Insert the actual profits locked in through sales of stocks]
+- **Realised Profit:** <span style="color:rgb(0, 176, 80)">364.54</span> [Insert the actual profits locked in through sales of stocks]
 - **Unrealised P&L:** <span style="color:rgb(255, 0, 0)">-749.89</span> [Insert the gains or losses still on paper from stocks currently held]
-- **Charges:** <span style="color:rgb(255, 0, 0)">194.45</span> [Insert all transaction fees and brokerage costs associated with trading]
+- **Charges:** <span style="color:rgb(255, 0, 0)">350.66</span> [Insert all transaction fees and brokerage costs associated with trading]
 
-## P&L Statement for [December]
+## P&L Statement for [January]
 
 - **Realised Profit:** <span style="color:rgb(0, 176, 80)">147.18</span> [Insert the actual profit from the previous month, denoted as "x"]
 
-## Target Profit for [January]
+## Target Profit for [February]
 
 - **Realised Profit Target:** 2.5x = <span style="color:rgb(0, 176, 80)">367.95</span> [Aim for 2.5 times the previous month's profit] 
 ```math
@@ -50,7 +51,3 @@ This structured and clear entry will help you maintain a disciplined and organiz
 ### Buy Recommendations
 
 - [Brokerage/Research Reports with BUY recommendation, Indian Stocks/Shares market Broker/Research Reports](https://trendlyne.com/research-reports/buy/)
-
-| Month | Stock | Upside |
-| ----- | ----- | ------ |
-| Jan   | PCBL  | 27.96  |
