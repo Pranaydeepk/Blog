@@ -16,6 +16,7 @@ This is the notes made by me.
 - [[Morning Routine]]
 - [[Miracle Morning]]
 - [[Proportionality]]
+- [[Linear Regression with Python]]
 - [[Python]]
 - [[Salary]]
 - [[Stock Trading Journal]]
