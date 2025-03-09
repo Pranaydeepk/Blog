@@ -16,8 +16,10 @@ This is the notes made by me.
 - [[Morning Routine]]
 - [[Miracle Morning]]
 - [[Proportionality]]
+- [[Python]]
 - [[Salary]]
 - [[Stock Trading Journal]]
 - [[Super Squats]]
 - [[YouTube Channels I Follow]]
 - [[Youtube Notes]]
+- 
